@@ -1,30 +1,29 @@
 {
   "files": {
-    "main.css": "/joaquinnieva/static/css/main.f1f8a96d.chunk.css",
-    "main.js": "/joaquinnieva/static/js/main.36317826.chunk.js",
-    "main.js.map": "/joaquinnieva/static/js/main.36317826.chunk.js.map",
-    "runtime-main.js": "/joaquinnieva/static/js/runtime-main.56fabb7e.js",
-    "runtime-main.js.map": "/joaquinnieva/static/js/runtime-main.56fabb7e.js.map",
+    "main.css": "/joaquinnieva/static/css/main.2b065d26.chunk.css",
+    "main.js": "/joaquinnieva/static/js/main.246cca1e.chunk.js",
+    "main.js.map": "/joaquinnieva/static/js/main.246cca1e.chunk.js.map",
+    "runtime-main.js": "/joaquinnieva/static/js/runtime-main.91a0e27a.js",
+    "runtime-main.js.map": "/joaquinnieva/static/js/runtime-main.91a0e27a.js.map",
     "static/js/2.a0bc0733.chunk.js": "/joaquinnieva/static/js/2.a0bc0733.chunk.js",
     "static/js/2.a0bc0733.chunk.js.map": "/joaquinnieva/static/js/2.a0bc0733.chunk.js.map",
-    "static/js/3.78d28d61.chunk.js": "/joaquinnieva/static/js/3.78d28d61.chunk.js",
-    "static/js/3.78d28d61.chunk.js.map": "/joaquinnieva/static/js/3.78d28d61.chunk.js.map",
+    "static/js/3.ea548e7e.chunk.js": "/joaquinnieva/static/js/3.ea548e7e.chunk.js",
+    "static/js/3.ea548e7e.chunk.js.map": "/joaquinnieva/static/js/3.ea548e7e.chunk.js.map",
     "index.html": "/joaquinnieva/index.html",
-    "static/css/main.f1f8a96d.chunk.css.map": "/joaquinnieva/static/css/main.f1f8a96d.chunk.css.map",
+    "static/css/main.2b065d26.chunk.css.map": "/joaquinnieva/static/css/main.2b065d26.chunk.css.map",
     "static/js/2.a0bc0733.chunk.js.LICENSE.txt": "/joaquinnieva/static/js/2.a0bc0733.chunk.js.LICENSE.txt",
     "static/media/avatar.fd27726b.png": "/joaquinnieva/static/media/avatar.fd27726b.png",
     "static/media/bootstrap.c78d49ca.png": "/joaquinnieva/static/media/bootstrap.c78d49ca.png",
-    "static/media/coder.988e9189.png": "/joaquinnieva/static/media/coder.988e9189.png",
+    "static/media/coder.65c7bb8c.png": "/joaquinnieva/static/media/coder.65c7bb8c.png",
     "static/media/css.a3d7ae38.png": "/joaquinnieva/static/media/css.a3d7ae38.png",
     "static/media/cursor.060a5fff.png": "/joaquinnieva/static/media/cursor.060a5fff.png",
-    "static/media/designer.409a4c54.png": "/joaquinnieva/static/media/designer.409a4c54.png",
     "static/media/figma.fb337e4e.png": "/joaquinnieva/static/media/figma.fb337e4e.png",
     "static/media/fondo.5d20b4df.jpg": "/joaquinnieva/static/media/fondo.5d20b4df.jpg",
     "static/media/gmail.dcaf22a5.png": "/joaquinnieva/static/media/gmail.dcaf22a5.png",
     "static/media/html.9de22cad.png": "/joaquinnieva/static/media/html.9de22cad.png",
     "static/media/illustrator.4b7cdaca.png": "/joaquinnieva/static/media/illustrator.4b7cdaca.png",
     "static/media/js.54cfa300.png": "/joaquinnieva/static/media/js.54cfa300.png",
-    "static/media/land.74761b76.png": "/joaquinnieva/static/media/land.74761b76.png",
+    "static/media/land.e583d231.png": "/joaquinnieva/static/media/land.e583d231.png",
     "static/media/logoentero.de0a9fbb.png": "/joaquinnieva/static/media/logoentero.de0a9fbb.png",
     "static/media/photoshop.f644c76a.png": "/joaquinnieva/static/media/photoshop.f644c76a.png",
     "static/media/react.c5094879.png": "/joaquinnieva/static/media/react.c5094879.png",
@@ -32,9 +31,9 @@
     "static/media/whatsapp.e91abd41.png": "/joaquinnieva/static/media/whatsapp.e91abd41.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.56fabb7e.js",
+    "static/js/runtime-main.91a0e27a.js",
     "static/js/2.a0bc0733.chunk.js",
-    "static/css/main.f1f8a96d.chunk.css",
-    "static/js/main.36317826.chunk.js"
+    "static/css/main.2b065d26.chunk.css",
+    "static/js/main.246cca1e.chunk.js"
   ]
 }
